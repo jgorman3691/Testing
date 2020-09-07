@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"rust.build_on_save": true,
+		"bladeFormatter.format.indentSize": 2,
+		"editor.tabSize": 2,
+		"julia.format.indent": 2,
+		"html.format.indentInnerHtml": true,
+		"editor.wordWrapColumn": 120,
+		"editor.fastScrollSensitivity": 8
+	}
+}

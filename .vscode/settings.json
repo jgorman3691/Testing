@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 120,
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "idf.portWin": "COM3",
+  "idf.pythonBinPath": "C:\\Python38",
+  "idf.pythonBinPathWin": "C:\\Python38",
+  "html.format.indentInnerHtml": true,
+  "prettier.printWidth": 120,
+  "python.condaPath": "C:\\Anaconda3",
+  "python.dataScience.exportWithOutputEnabled": true,
+  "python.dataScience.showKernelSelectionOnInteractiveWindow": true,
+  "python.dataScience.themeMatplotlibPlots": true,
+  "python.pythonPath": "C:\\Anaconda3",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.venvPath": "C:\\Venvs",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "xmlTools.enforcePrettySelfClosingTagOnFormat": true
+}
